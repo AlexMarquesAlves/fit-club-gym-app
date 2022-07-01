@@ -10,19 +10,19 @@
 <h1 align="center">Fit Club Gym App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/Fit_Club-gym_app?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit_Club-gym_app?color=56BEB8" /> -->
 </p>
 
 Status
@@ -70,10 +70,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexMarquesAlves/Fit_Club-gym_app
+$ git clone https://github.com/AlexMarquesAlves/fit_Club-gym_app
 
 # Access
-$ cd Fit_Club-gym_app
+$ cd fit_Club-gym_app
 
 # Install dependencies
 $ yarn
