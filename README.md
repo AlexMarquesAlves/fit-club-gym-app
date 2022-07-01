@@ -18,11 +18,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit_club-gym_app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
 </p>
 
 Status
