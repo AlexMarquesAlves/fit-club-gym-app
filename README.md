@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">Event Platform</h1>
+<h1 align="center">Fit Club Gym App</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/event-platform?color=56BEB8">
@@ -28,7 +28,7 @@
 Status
 
 <h4 align="center">
-	🚧  Event Platform 🚀 Under construction...  🚧
+	🚧  Fit Club Gym App 🚀 Under construction...  🚧
 </h4>
 
 <hr>
@@ -47,7 +47,7 @@ Status
 
 ## :dart: About
 
-<p align='center'>Project developed during Rocketseat's Ignite Lab week</p>
+<p align='center'></p>
 
 <!-- ## :sparkles: Features
 
@@ -59,13 +59,8 @@ Status
 
 The following tools were used in this project:
 
--  [React](https://reactjs.org/)
--  [TypeScript](https://www.typescriptlang.org/)
--  [Vite](https://vitejs.dev/)
--  [Tailwind CSS](https://tailwindcss.com/)
--  [GraphQL](https://graphql.org/)
--  [Apollo](https://www.apollographql.com/)
--  [GraphCMS](https://graphcms.com/)
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
 
 ## :white_check_mark: Requirements
 
@@ -99,36 +94,4 @@ Made with :heart: by <a href="https://github.com/AlexMarquesAlves" target="_blan
 
 <a href="#top">Back to top</a>
 
-<!-- <p align="center"><img src="./.github/Wallpaper - 2560x1080.png" width="400"></p>
 
-## ✨ Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [GraphQL](https://graphql.org/)
-- [Apollo](https://www.apollographql.com/)
-- [GraphCMS](https://graphcms.com/)
-
-## 💻 Projeto
-
-O projeto é uma plataforma de eventos para hostear aulas, desenvolvido durante a semana Ignite Lab da [Rocketseat](https://rocketseat.com.br/). [Style Guide](https://www.figma.com/community/file/1120711251998877938) do projeto.
-
-## 🚀 Como executar
-
-- Clone o repositório
-- Instale as dependências com `npm i`
-- Inicie o servidor com `npm run dev`
-
-Agora você pode acessar [`http://localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito por []() ❤ -->
