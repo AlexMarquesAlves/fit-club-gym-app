@@ -1,14 +1,14 @@
-import { Heading } from '.';
+import { Example } from '.';
 
 export default {
-  title: 'Heading',
-  component: Heading,
-  args: {
-    children: 'Children padrão',
-  },
-  argTypes: {
-    children: { type: 'string' },
-  },
+   title: 'Example',
+   component: Example,
+   args: {
+      children: 'Children padrão',
+   },
+   argTypes: {
+      children: { type: 'string' },
+   },
 };
 
-export const Template = (args) => <Heading {...args} />;
+export const Template = (args) => <Example {...args} />;

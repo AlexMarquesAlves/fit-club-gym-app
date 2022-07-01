@@ -1,15 +1,15 @@
 import P from 'prop-types';
 // import * as Styled from './styles';
 
-export const Heading = ({ children }) => {
-  return (
-    <>
-      <h1>{children}</h1>
-      {/* <Styled.Heading>{children}</Styled.Heading> */}
-    </>
-  );
+export const Example = ({ children }) => {
+   return (
+      <>
+         <h1>{children}</h1>
+         {/* <Styled.Example>{children}</Styled.Example> */}
+      </>
+   );
 };
 
-Heading.propTypes = {
-  children: P.node.isRequired,
+Example.propTypes = {
+   children: P.node.isRequired,
 };
