@@ -119,6 +119,10 @@
          position: absolute;
          right: 4rem;
          top: 7rem;
+
+         > img {
+            width: 2rem;
+         }
       }
    }
 }
