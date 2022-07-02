@@ -55,6 +55,25 @@
             width: 80%;
          }
       }
+
+      .figures {
+         display: flex;
+         gap: 2rem;
+
+         > div {
+            display: flex;
+            flex-direction: column;
+
+            > span:nth-child(1) {
+               color: white;
+               font-size: 2rem;
+            }
+            > span:nth-child(2) {
+               color: var(--gray);
+               text-transform: uppercase;
+            }
+         }
+      }
    }
 
    .right-h {
