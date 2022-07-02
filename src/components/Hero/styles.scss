@@ -36,6 +36,25 @@
             z-index: 2;
          }
       }
+
+      .hero-text {
+         display: flex;
+         flex-direction: column;
+         gap: 1.5rem;
+         text-transform: uppercase;
+         font-size: 4.5rem;
+         font-weight: bold;
+         color: white;
+         text-overflow: inherit;
+
+         > div:nth-child(3) {
+            font-size: 1rem;
+            font-weight: 200;
+            text-transform: none;
+            letter-spacing: 1px;
+            width: 80%;
+         }
+      }
    }
 
    .right-h {
