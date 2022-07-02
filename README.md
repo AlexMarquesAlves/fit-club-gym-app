@@ -8,26 +8,19 @@
 <h1 align="center">Fit Club Gym App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8">
+<img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8">
+<img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8" />
+<img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
 
-<img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8" />
+<img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
 
-<img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit-club-gym-app
-?color=56BEB8" />
+<img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
 
 </p>
 
