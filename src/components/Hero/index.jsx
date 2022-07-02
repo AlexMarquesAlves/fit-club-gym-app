@@ -75,6 +75,15 @@ export function Hero() {
                src={hero_image_back}
                alt={'Some hero_image_back'}
             />
+
+            {/* calories */}
+
+            <div className="calories">
+               <img src={Calories} alt="Calories image example" />
+
+               <span>Calories Burned</span>
+               <span>220 kcal</span>
+            </div>
          </div>
       </div>
    );
