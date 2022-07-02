@@ -81,8 +81,10 @@ export function Hero() {
             <div className="calories">
                <img src={Calories} alt="Calories image example" />
 
-               <span>Calories Burned</span>
-               <span>220 kcal</span>
+               <div>
+                  <span>Calories Burned</span>
+                  <span>220 kcal</span>
+               </div>
             </div>
          </div>
       </div>
