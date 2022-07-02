@@ -1,28 +1,34 @@
-<div align="center" id="top">
-  <img src="./.github/Wallpaper - 2560x1080.png" width="400" alt='Event Platform' />
-
 &#xa0;
 
-<!-- <a href="https://fit_club-gym_app.netlify.app">Demo</a> -->
+<!-- <a href="https://fit-club-gym-app
+.netlify.app">Demo</a> -->
 
 </div>
 
 <h1 align="center">Fit Club Gym App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit_club-gym_app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit_club-gym_app?color=56BEB8">
+<img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit_club-gym_app?color=56BEB8">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit_club-gym_app?color=56BEB8">
+<img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
+<img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
+<img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit_club-gym_app?color=56BEB8" />
+<img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit-club-gym-app
+?color=56BEB8" />
+
 </p>
 
 Status
@@ -59,21 +65,24 @@ Status
 
 The following tools were used in this project:
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
+-  [React](https://reactjs.org/)
+-  [Vite](https://vitejs.dev/)
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com)
+and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexMarquesAlves/fit_club-gym_app
+$ git clone https://github.com/AlexMarquesAlves/fit-club-gym-app
+
 
 # Access
-$ cd fit_club-gym_app
+$ cd fit-club-gym-app
+
 
 # Install dependencies
 $ yarn
@@ -86,12 +95,13 @@ $ yarn start
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the
+[LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/AlexMarquesAlves" target="_blank">Alex Marquês Alves</a>
+Made with :heart: by
+<a href="https://github.com/AlexMarquesAlves" target="_blank">Alex Marquês
+Alves</a>
 
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-
