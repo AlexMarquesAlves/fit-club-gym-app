@@ -1,12 +1,20 @@
 import P from 'prop-types';
-// import * as Styled from './styles';
+import Logo from '../../assets/logo.png';
+import './styles.scss';
 
 export const Heading = () => {
    return (
-      <>
-         <h1>Heading</h1>
-         {/* <Styled.Heading>{children}</Styled.Heading> */}
-      </>
+      <div className="heading">
+         <img className="logo" src={Logo} alt="some logo pic" />
+
+         <ul className="heading-menu">
+            <li>Home</li>
+            <li>Programs</li>
+            <li>Why Us</li>
+            <li>Plans</li>
+            <li>Testimonials</li>
+         </ul>
+      </div>
    );
 };
 
