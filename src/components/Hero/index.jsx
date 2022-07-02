@@ -1,7 +1,12 @@
 import P from 'prop-types';
+import Calories from '../../assets/calories.png';
+import Heart from '../../assets/heart.png';
+import hero_image from '../../assets/hero_image.png';
+import hero_image_back from '../../assets/hero_image_back.png';
 import { Heading } from '../Heading';
 import './styles.scss';
 
+const imgs = { hero_image, hero_image_back, Heart, Calories };
 export function Hero() {
    return (
       <div className="hero">
@@ -49,7 +54,9 @@ export function Hero() {
                <button className="btn">Learn More</button>
             </div>
          </div>
-         <div className="right-h">Right Side</div>
+         <div className="right-h">
+            <button className="btn">Join Now</button>
+         </div>
       </div>
    );
 }
