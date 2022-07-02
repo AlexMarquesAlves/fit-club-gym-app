@@ -63,6 +63,18 @@ export function Hero() {
                <span>Heart Rate</span>
                <span>116 bpm</span>
             </div>
+
+            {/* hero images */}
+            <img
+               className="hero_image"
+               src={hero_image}
+               alt={'Some hero_image'}
+            />
+            <img
+               className="hero_image_back"
+               src={hero_image_back}
+               alt={'Some hero_image_back'}
+            />
          </div>
       </div>
    );
