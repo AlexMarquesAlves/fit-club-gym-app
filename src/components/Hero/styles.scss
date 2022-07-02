@@ -140,5 +140,13 @@
          right: 8rem;
          width: 23rem;
       }
+
+      .hero_image_back {
+         position: absolute;
+         top: 4rem;
+         right: 20rem;
+         z-index: -1;
+         width: 15rem;
+      }
    }
 }
