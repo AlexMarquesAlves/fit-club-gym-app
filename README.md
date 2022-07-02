@@ -1,8 +1,9 @@
+<div align="center" id="top">
+  <!-- <img src="./." alt="Fit Club Gym App" /> -->
+
 &#xa0;
 
-<!-- <a href="https://fit-club-gym-app
-.netlify.app">Demo</a> -->
-
+  <!-- <a href="https://fit-club-gym-app.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Fit Club Gym App</h1>
@@ -10,31 +11,28 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/fit-club-gym-app?color=56BEB8">
 
-<img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" /> -->
 
-<img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" /> -->
 
-<img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" />
-
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/fit-club-gym-app?color=56BEB8" /> -->
 </p>
-
-Status
 
 <h4 align="center">
 	🚧  Fit Club Gym App 🚀 Under construction...  🚧
 </h4>
 
-<hr>
+<hr/>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,12 +44,15 @@ Status
 
 ## :dart: About
 
-<p align='center'></p>
+Awesome responsive gym website project. React hooks, modern CSS, framer motion.
+For contact, I used the Email js library to make this site more functional and
+practical.
 
-<!-- ## :sparkles: Features
+## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Hero;
+
+<!-- :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies
@@ -72,10 +73,8 @@ and [Node](https://nodejs.org/en/) installed.
 # Clone this project
 $ git clone https://github.com/AlexMarquesAlves/fit-club-gym-app
 
-
 # Access
 $ cd fit-club-gym-app
-
 
 # Install dependencies
 $ yarn
@@ -92,7 +91,7 @@ This project is under license from MIT. For more details, see the
 [LICENSE](LICENSE.md) file.
 
 Made with :heart: by
-<a href="https://github.com/AlexMarquesAlves" target="_blank">Alex Marquês
+<a href="https://github.com/AlexMarquesAlves" target="_blank">Alex Marques
 Alves</a>
 
 &#xa0;
