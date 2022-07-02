@@ -123,6 +123,15 @@
          > img {
             width: 2rem;
          }
+
+         > :nth-child(2) {
+            color: var(--gray);
+         }
+
+         > :nth-child(3) {
+            color: white;
+            font-size: 1.5rem;
+         }
       }
    }
 }
