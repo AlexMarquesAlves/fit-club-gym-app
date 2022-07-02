@@ -163,6 +163,12 @@
          > img {
             width: 3rem;
          }
+
+         > div {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+         }
       }
    }
 }
