@@ -19,5 +19,16 @@
    .programs-categories {
       display: flex;
       gap: 1rem;
+
+      .category {
+         display: flex;
+         flex-direction: column;
+         background-color: gray;
+         padding: 2rem;
+         gap: 1rem;
+         color: white;
+         justify-content: space-between;
+         transition: all 300ms ease-in-out;
+      }
    }
 }
