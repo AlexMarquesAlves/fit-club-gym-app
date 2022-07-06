@@ -18,7 +18,21 @@ export function Programs() {
          </div>
 
          {/* Programs Cards */}
-         <div className="programs-categories"></div>
+         <div className="programs-categories">
+            {programsData.map((program) => (
+               // eslint-disable-next-line react/jsx-key
+               <div className="category">
+                  {program.image}
+                  <span>{program.heading}</span>
+                  <span>{program.details}</span>
+
+                  <div className="join-now">
+                     <span>Join Now</span>
+                     <img src={RightArrow} alt="" />
+                  </div>
+               </div>
+            ))}
+         </div>
       </div>
    );
 }
