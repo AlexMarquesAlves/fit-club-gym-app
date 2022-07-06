@@ -6,7 +6,6 @@ import hero_image_back from '../../assets/hero_image_back.png';
 import { Heading } from '../Heading';
 import './styles.scss';
 
-const imgs = { hero_image, hero_image_back, Heart, Calories };
 export function Hero() {
    return (
       <div className="hero">
