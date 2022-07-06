@@ -6,5 +6,14 @@ Programs.propTypes = {
 };
 
 export function Programs() {
-   return <h1>Programs</h1>;
+   return (
+      <div className="programs" id="programs">
+         {/* Header */}
+         <div className="programs-header">
+            <span>Explore our</span>
+            <span>Programs</span>
+            <span>to shape you</span>
+         </div>
+      </div>
+   );
 }
