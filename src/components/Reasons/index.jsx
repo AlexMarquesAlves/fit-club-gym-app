@@ -26,26 +26,26 @@ export const Reasons = () => {
                <span className="stroke-text">Why</span>
                <span>Choose Us?</span>
             </div>
-
+            {/* DETAILS */}
             <div className="details-r">
                <div>
                   <img src={tick} alt="" />
-                  <span></span>
+                  <span>OVER 140+ EXPERT COACHS</span>
                </div>
                <div>
                   <img src={tick} alt="" />
-                  <span></span>
+                  <span>TRAIN SMARTER AND FASTER THAN BEFORE</span>
                </div>
                <div>
                   <img src={tick} alt="" />
-                  <span></span>
+                  <span>1 FREE PROGRAM FOR NEW MEMBER</span>
                </div>
                <div>
                   <img src={tick} alt="" />
-                  <span></span>
+                  <span>RELIABLE PARTNERS</span>
                </div>
             </div>
-            {/*  */}
+            {/*  END OF DETAILS*/}
          </div>
       </div>
    );
