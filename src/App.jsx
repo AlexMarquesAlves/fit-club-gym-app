@@ -1,11 +1,12 @@
 import './App.scss';
-import { Hero, Programs } from './components';
+import { Hero, Programs, Reasons } from './components';
 
 function App() {
    return (
       <div className="App">
          <Hero />
          <Programs />
+         <Reasons />
       </div>
    );
 }
