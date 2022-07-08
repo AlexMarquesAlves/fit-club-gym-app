@@ -48,5 +48,11 @@
          font-weight: bold;
          color: var(--orange);
       }
+
+      > div {
+         color: white;
+         font-size: 3rem;
+         font-weight: bold;
+      }
    }
 }
