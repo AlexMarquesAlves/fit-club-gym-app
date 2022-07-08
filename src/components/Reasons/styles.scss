@@ -43,5 +43,10 @@
       gap: 1rem;
       display: flex;
       flex-direction: column;
+
+      > span {
+         font-weight: bold;
+         color: var(--orange);
+      }
    }
 }
