@@ -26,6 +26,26 @@ export const Reasons = () => {
                <span className="stroke-text">Why</span>
                <span>Choose Us?</span>
             </div>
+
+            <div className="details-r">
+               <div>
+                  <img src={tick} alt="" />
+                  <span></span>
+               </div>
+               <div>
+                  <img src={tick} alt="" />
+                  <span></span>
+               </div>
+               <div>
+                  <img src={tick} alt="" />
+                  <span></span>
+               </div>
+               <div>
+                  <img src={tick} alt="" />
+                  <span></span>
+               </div>
+            </div>
+            {/*  */}
          </div>
       </div>
    );
