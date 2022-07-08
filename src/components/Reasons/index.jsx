@@ -19,7 +19,14 @@ export const Reasons = () => {
             <img src={image4} alt="" />
          </div>
 
-         <div className="right-r">Right Side</div>
+         <div className="right-r">
+            <span>Some reasons</span>
+
+            <div>
+               <span className="stroke-text">Why</span>
+               <span>Choose Us?</span>
+            </div>
+         </div>
       </div>
    );
 };
