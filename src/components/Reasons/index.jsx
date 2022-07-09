@@ -1,23 +1,17 @@
 import P from 'prop-types';
-import image1 from '../../assets/image1.png';
-import image2 from '../../assets/image2.png';
-import image3 from '../../assets/image3.png';
-import image4 from '../../assets/image4.png';
-import nb from '../../assets/nb.png';
-import adidas from '../../assets/adidas.png';
-import nike from '../../assets/nike.png';
-import tick from '../../assets/tick.png';
+import { dataImage1, dataImage2, partners } from './data';
 import './styles.scss';
 
 export const Reasons = () => {
    return (
       <div className="Reasons" id="reasons">
+         {/* IMAGES SIDE */}
          <div className="left-r">
-            <img src={image1} alt="" />
-            <img src={image2} alt="" />
-            <img src={image3} alt="" />
-            <img src={image4} alt="" />
+            {dataImage1.map((items, index) => (
+               <img src={items.src} alt="" key={index} />
+            ))}
          </div>
+         {/* END OF IMAGES SIDE */}
 
          <div className="right-r">
             <span>Some reasons</span>
@@ -26,26 +20,18 @@ export const Reasons = () => {
                <span className="stroke-text">Why</span>
                <span>Choose Us?</span>
             </div>
+
             {/* DETAILS */}
             <div className="details-r">
-               <div>
-                  <img src={tick} alt="" />
-                  <span>OVER 140+ EXPERT COACHS</span>
-               </div>
-               <div>
-                  <img src={tick} alt="" />
-                  <span>TRAIN SMARTER AND FASTER THAN BEFORE</span>
-               </div>
-               <div>
-                  <img src={tick} alt="" />
-                  <span>1 FREE PROGRAM FOR NEW MEMBER</span>
-               </div>
-               <div>
-                  <img src={tick} alt="" />
-                  <span>RELIABLE PARTNERS</span>
-               </div>
+               {dataImage2.map((items, index) => (
+                  <div key={index}>
+                     <img src={items.src} alt="" />
+                     <span>{items.text}</span>
+                  </div>
+               ))}
             </div>
             {/*  END OF DETAILS*/}
+
             {/* PARTNERS */}
             <span
                style={{
@@ -57,9 +43,9 @@ export const Reasons = () => {
             </span>
 
             <div className="partners">
-               <img src={nb} alt="" />
-               <img src={adidas} alt="" />
-               <img src={nike} alt="" />
+               {partners.map((items, index) => (
+                  <img src={items.src} alt="partners logo" key={index} />
+               ))}
             </div>
             {/* END OF PARTNERS */}
          </div>
