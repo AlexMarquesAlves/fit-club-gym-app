@@ -50,7 +50,9 @@ practical.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Hero;
+:heavy_check_mark: Hero;\
+:heavy_check_mark: Programs;\
+:heavy_check_mark: Reasons;
 
 <!-- :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3; -->
